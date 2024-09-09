@@ -7,6 +7,9 @@
 ### Connect with me:
 
 <p align="center">
+  <a href="https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/fam007e/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="90" />
   </a>
