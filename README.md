@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/dDwicM3uFUqfC/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/dDwicM3uFUqfC/giphy.gif" width="210" />
 </p>
 
 ### Hi there, I'm Faisal Ahmed Moshiur 👋
@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fam007e/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" height="30" width="90" />
   </a>
   <a href="https://mastodon.social/@fam007e" target="blank">
-    <img src="https://img.shields.io/mastodon/follow/112207412078401577?style=for-the-badge" alt="Mastodon" height="30" width="40" />
+    <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/112207412078401577" alt="Mastodon" height="30" width="90" />
   </a>
   <a href="https://orcid.org/0000-0002-4969-8919" target="blank">
-    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID" height="30" width="40" />
+    <img src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="ORCID" height="30" width="65" />
   </a>
   <a href="https://discord.gg/y3PqAQEh" target="blank">
-    <img src="https://img.shields.io/discord/1035001581298520074" alt="Discord" height="30" width="40" />
+    <img src="https://img.shields.io/discord/1035001581298520074" alt="Discord" height="30" width="90" />
   </a>
 </p>
 
