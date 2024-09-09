@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Faisal Ahmed Moshiur 👋
 
-[![Spotify](https://spotify-nowplaying-acexswaroop.vercel.app/api/spotify)](https://open.spotify.com/?flow_ctx=4efdf843-b201-4529-8189-bb51e1941bd6%3A1725865605)
+[![Spotify](https://spotify-nowplaying-acexswaroop.vercel.app/api/spotify)](https://open.spotify.com/user/ef7520d978dc4ea9bdc9c24d1208948f?si=cce5f11880604ca8a3553c1600aad2f1)
 
 
 ### Connect with me:
