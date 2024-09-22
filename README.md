@@ -1,9 +1,19 @@
 <p align="center"><img src="https://raw.githubusercontent.com/fam007e/fam007e/main/fam007e-logo.png" /></p>
 
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/112207412078401577?style=for-the-badge&label=Mastodon)](https://mastodon.social/@fam007e)
-[![Discord](https://img.shields.io/discord/1035001581298520074?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/y3PqAQEh)
-[![Twitch](https://img.shields.io/twitch/status/fam007e?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://www.twitch.tv/fam007e)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0opCSTihsVYiv8QNIgQ4JA)
+<div style="display: flex; justify-content: center; gap: 0; flex-wrap: wrap;">
+    <a href="https://mastodon.social/@fam007e" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/mastodon/follow/112207412078401577?style=for-the-badge&label=Mastodon" style="display: block; margin: 0;" />
+    </a>
+    <a href="https://discord.gg/y3PqAQEh" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/discord/1035001581298520074?color=7289DA&label=Discord&logo=discord&style=for-the-badge" style="display: block; margin: 0;" />
+    </a>
+    <a href="https://www.twitch.tv/fam007e" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/twitch/status/fam007e?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" style="display: block; margin: 0;" />
+    </a>
+    <a href="https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/youtube/channel/subscribers/UC0opCSTihsVYiv8QNIgQ4JA" style="display: block; margin: 0;" />
+    </a>
+</div>
 
 ### Socials
 
