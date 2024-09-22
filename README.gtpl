@@ -3,6 +3,22 @@
 <a href="https://www.twitch.tv/fam007e" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/fam007e?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
+<a href="https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/fam007e/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://mastodon.social/@fam007e" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/mastodon/follow/112207412078401577?style=for-the-badge&label=Mastodon" />
+</a>
+<a href="https://orcid.org/0000-0002-4969-8919" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ORCID-brightgreen?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+<a href="https://discord.gg/y3PqAQEh" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/discord/1035001581298520074?color=7289DA&label=Discord&logo=discord&style=for-the-badge" />
+</a>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/fam007e" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="www.linkedin.com/in/fam007e" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@darkknightz007E" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/fam007e" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
