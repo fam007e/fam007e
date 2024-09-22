@@ -1,7 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/fam007e/fam007e/main/fam007e-logo.png" /></p>
 
 [![Twitch](https://img.shields.io/twitch/status/fam007e?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS)](https://www.twitch.tv/fam007e)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0opCSTihsVYiv8QNIgQ4JA)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/112207412078401577?style=for-the-badge&label=Mastodon)](https://mastodon.social/@fam007e)
 [![Discord](https://img.shields.io/discord/1035001581298520074?color=7289DA&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/y3PqAQEh)
 
