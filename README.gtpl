@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/fam007e/fam007e/main/fam007e-600px-github.png" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/fam007e/fam007e/main/fam007e-logo.png" /></p>
 
 <a href="https://www.twitch.tv/fam007e" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/fam007e?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
