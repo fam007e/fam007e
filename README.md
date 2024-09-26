@@ -19,7 +19,7 @@
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
-- [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
+- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the xtremepapers website for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
 ### 🌱 My latest projects
 
 - [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the xtremepapers website for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
@@ -36,11 +36,11 @@
 - [Git Auto Config, Bootloader Switcher, and Nerd Fonts Installer Script](https://github.com/ChrisTitusTech/linutil/pull/390) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
-- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
-- [termux/proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
+- [pypa/wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
+- [pypa/twine](https://github.com/pypa/twine) - Utilities for interacting with PyPI
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
