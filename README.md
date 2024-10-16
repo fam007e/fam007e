@@ -15,10 +15,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
-- [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
 - [fam007e/TacticsBoard](https://github.com/fam007e/TacticsBoard) - Football Tactics Board
 ### 🌱 My latest projects
 
