@@ -16,10 +16,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
+- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
 - [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
-- [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
 ### 🌱 My latest projects
 
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
