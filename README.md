@@ -15,7 +15,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the xtremepapers website for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
+- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the Xtremepapers &amp; PapaCambridge websites for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
@@ -23,7 +23,7 @@
 ### 🌱 My latest projects
 
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
-- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the xtremepapers website for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
+- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the Xtremepapers &amp; PapaCambridge websites for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
 - [fam007e/TacticsBoard](https://github.com/fam007e/TacticsBoard) - Football Tactics Board
@@ -36,11 +36,11 @@
 - [Git Auto Config, Bootloader Switcher, and Nerd Fonts Installer Script](https://github.com/ChrisTitusTech/linutil/pull/390) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
+- [FossifyOrg/Launcher](https://github.com/FossifyOrg/Launcher) - A practical and customizable launcher for launching your favorite apps easily.
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Neamar/KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 250kb Android launcher
-- [JunioJsv/mtk-easy-su](https://github.com/JunioJsv/mtk-easy-su) - Get bootless root access with few clicks.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
