@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/examvault](https://github.com/fam007e/examvault) - 🧠 Community-driven question bank for O Level, A Level &amp; IGCSE exam prep — organized, open, and mock-test ready.
 - [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the Xtremepapers &amp; PapaCambridge websites for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
-- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 ### 🌱 My latest projects
 
 - [fam007e/examvault](https://github.com/fam007e/examvault) - 🧠 Community-driven question bank for O Level, A Level &amp; IGCSE exam prep — organized, open, and mock-test ready.
