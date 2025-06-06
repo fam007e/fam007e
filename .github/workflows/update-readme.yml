@@ -15,6 +15,12 @@ jobs:
       group: metrics-update
       cancel-in-progress: true
     steps:
+      - name: Create cache directories
+        run: |
+          mkdir -p ~/.cache
+          mkdir -p ~/.npm
+          mkdir -p ~/.local
+          
       - name: Cache dependencies
         uses: actions/cache@v4
         with:
@@ -26,6 +32,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-metrics-
             ${{ runner.os }}-
+            
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
