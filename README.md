@@ -29,11 +29,11 @@
 - [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the Xtremepapers &amp; PapaCambridge websites for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
 ### 🔨 My recent Pull Requests
 
+- [feat: Groundwork for complex security fixes](https://github.com/recloudstream/cloudstream/pull/1833) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+- [feat: Enhance security with obfuscation, encryption, and stricter network policies](https://github.com/recloudstream/cloudstream/pull/1832) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+- [fix: Add workaround for 16KB page size alignment on Android 15](https://github.com/recloudstream/cloudstream/pull/1831) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
+- [feat: Add Quad9 Secured DNS Provider](https://github.com/recloudstream/cloudstream/pull/1830) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [Auto Git Config Script Added and Tab_Data TOML Updated.](https://github.com/ChrisTitusTech/linutil/pull/448) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Bootloader switcher script added and consequential change to tab TOML file.](https://github.com/ChrisTitusTech/linutil/pull/447) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [NerdFonts installer script added and consequential change to tab_data TOML file.](https://github.com/ChrisTitusTech/linutil/pull/446) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Add Linutil Logo via `state.rs`.](https://github.com/ChrisTitusTech/linutil/pull/391) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [Git Auto Config, Bootloader Switcher, and Nerd Fonts Installer Script](https://github.com/ChrisTitusTech/linutil/pull/390) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
