@@ -15,8 +15,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
