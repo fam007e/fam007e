@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
 - [fam007e/VCFmerger](https://github.com/fam007e/VCFmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
-- [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
 ### 🌱 My latest projects
 
 - [fam007e/VCFmerger](https://github.com/fam007e/VCFmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
@@ -29,11 +29,11 @@
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
 ### 🔨 My recent Pull Requests
 
+- [feat: Improve SRT translation script](https://github.com/fam007e/SRT_Trans/pull/1) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
 - [feat: Groundwork for complex security fixes](https://github.com/recloudstream/cloudstream/pull/1833) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [feat: Enhance security with obfuscation, encryption, and stricter network policies](https://github.com/recloudstream/cloudstream/pull/1832) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [fix: Add workaround for 16KB page size alignment on Android 15](https://github.com/recloudstream/cloudstream/pull/1831) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [feat: Add Quad9 Secured DNS Provider](https://github.com/recloudstream/cloudstream/pull/1830) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-- [Auto Git Config Script Added and Tab_Data TOML Updated.](https://github.com/ChrisTitusTech/linutil/pull/448) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 ### ⭐ Recent Stars
 
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android&#39;s most thorough cleaning tool.
