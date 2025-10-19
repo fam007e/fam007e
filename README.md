@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/VCFmerger](https://github.com/fam007e/VCFmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
 ### 🌱 My latest projects
 
 - [fam007e/VCFmerger](https://github.com/fam007e/VCFmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
@@ -36,11 +36,11 @@
 - [feat: Add Quad9 Secured DNS Provider](https://github.com/recloudstream/cloudstream/pull/1830) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 ### ⭐ Recent Stars
 
+- [Tong-ST/Funcher](https://github.com/Tong-ST/Funcher) - App launcher that&#39;s FUN!
 - [ThrowTheSwitch/Unity](https://github.com/ThrowTheSwitch/Unity) - Simple unit testing for C
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) - SD Maid 2/SE is Android&#39;s most thorough cleaning tool.
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
-- [anhoder/pake-excalidraw](https://github.com/anhoder/pake-excalidraw) - Pake for excalidraw.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
