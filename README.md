@@ -15,7 +15,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/VCFmerger](https://github.com/fam007e/VCFmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
@@ -26,7 +26,7 @@
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/libexecinfo](https://github.com/fam007e/libexecinfo) - A modern, BSD-licensed clone of the backtrace facility found in GNU libc. This library is primarily intended for porting Linux code to BSD platforms and other systems that don&#39;t have built-in backtrace support.
 - [fam007e/examvault](https://github.com/fam007e/examvault) - 🧠 Community-driven question bank for O Level, A Level &amp; IGCSE exam prep — organized, open, and mock-test ready.
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - SecurePassManagement is a secure command-line tool that stores passwords and TOTP secrets in encrypted format. It supports password management, time-based one-time passwords (TOTP) for two-factor authentication (2FA), account search, and the ability to import/export credentials. Users can securely manage and generate TOTP codes.
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 ### 🔨 My recent Pull Requests
 
 - [feat: Improve SRT translation script](https://github.com/fam007e/SRT_Trans/pull/1) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
