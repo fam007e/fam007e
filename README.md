@@ -15,9 +15,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - SRT translator.
-- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/VCFmerger](https://github.com/fam007e/VCFmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 ### 🌱 My latest projects
