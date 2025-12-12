@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Script to install Nerd-Fonts.
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
-- [fam007e/libexecinfo](https://github.com/fam007e/libexecinfo) - A modern, BSD-licensed clone of the backtrace facility found in GNU libc. This library is primarily intended for porting Linux code to BSD platforms and other systems that don&#39;t have built-in backtrace support.
 ### 🌱 My latest projects
 
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
@@ -36,11 +36,11 @@
 - [feat: Add Quad9 Secured DNS Provider](https://github.com/recloudstream/cloudstream/pull/1830) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 ### ⭐ Recent Stars
 
+- [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
+- [wrf-model/WPS](https://github.com/wrf-model/WPS) - The official repository for the WRF Preprocessing System (WPS)
+- [wrf-model/WRF](https://github.com/wrf-model/WRF) - The official repository for the Weather Research and Forecasting (WRF) model
 - [OSGeo/grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
 - [ecmwf/cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store (CDS) 
-- [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
-- [datalab-to/chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
-- [Tong-ST/Funcher](https://github.com/Tong-ST/Funcher) - App launcher that&#39;s FUN!
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
