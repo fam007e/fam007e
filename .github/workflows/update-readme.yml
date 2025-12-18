@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-metrics-
             ${{ runner.os }}-
             
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
