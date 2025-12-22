@@ -29,11 +29,11 @@
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 ### 🔨 My recent Pull Requests
 
+- [Fix strict-aliasing warning in gpu_wsl.cpp](https://github.com/fastfetch-cli/fastfetch/pull/2106) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [feat: Improve SRT translation script](https://github.com/fam007e/SRT_Trans/pull/1) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
 - [feat: Groundwork for complex security fixes](https://github.com/recloudstream/cloudstream/pull/1833) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [feat: Enhance security with obfuscation, encryption, and stricter network policies](https://github.com/recloudstream/cloudstream/pull/1832) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [fix: Add workaround for 16KB page size alignment on Android 15](https://github.com/recloudstream/cloudstream/pull/1831) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-- [feat: Add Quad9 Secured DNS Provider](https://github.com/recloudstream/cloudstream/pull/1830) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 ### ⭐ Recent Stars
 
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
