@@ -36,11 +36,11 @@
 - [fix: Add workaround for 16KB page size alignment on Android 15](https://github.com/recloudstream/cloudstream/pull/1831) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 ### ⭐ Recent Stars
 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+- [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb) - kb single-header C/C&#43;&#43; libraries
+- [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
-- [wrf-model/WPS](https://github.com/wrf-model/WPS) - The official repository for the WRF Preprocessing System (WPS)
-- [wrf-model/WRF](https://github.com/wrf-model/WRF) - The official repository for the Weather Research and Forecasting (WRF) model
-- [OSGeo/grass](https://github.com/OSGeo/grass) - GRASS - free and open-source geospatial processing engine
-- [ecmwf/cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store (CDS) 
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
