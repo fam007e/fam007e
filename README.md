@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
-- [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
-- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
+- [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
+- [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 ### 🌱 My latest projects
 
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
@@ -29,11 +29,11 @@
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 ### 🔨 My recent Pull Requests
 
+- [fix(ci): version update for release](https://github.com/fam007e/vcfmerger/pull/2) on [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger)
 - [Fix strict-aliasing warning in gpu_wsl.cpp](https://github.com/fastfetch-cli/fastfetch/pull/2106) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [feat: Improve SRT translation script](https://github.com/fam007e/SRT_Trans/pull/1) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
 - [feat: Groundwork for complex security fixes](https://github.com/recloudstream/cloudstream/pull/1833) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 - [feat: Enhance security with obfuscation, encryption, and stricter network policies](https://github.com/recloudstream/cloudstream/pull/1832) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-- [fix: Add workaround for 16KB page size alignment on Android 15](https://github.com/recloudstream/cloudstream/pull/1831) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 ### ⭐ Recent Stars
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
