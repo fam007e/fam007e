@@ -29,11 +29,11 @@
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 ### 🔨 My recent Pull Requests
 
+- [Chore/gha security updates](https://github.com/ChrisTitusTech/linutil/pull/1170) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
 - [fix(ci): version update for release](https://github.com/fam007e/vcfmerger/pull/2) on [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger)
 - [Fix strict-aliasing warning in gpu_wsl.cpp](https://github.com/fastfetch-cli/fastfetch/pull/2106) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [feat: Improve SRT translation script](https://github.com/fam007e/SRT_Trans/pull/1) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
 - [feat: Groundwork for complex security fixes](https://github.com/recloudstream/cloudstream/pull/1833) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
-- [feat: Enhance security with obfuscation, encryption, and stricter network policies](https://github.com/recloudstream/cloudstream/pull/1832) on [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream)
 ### ⭐ Recent Stars
 
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
