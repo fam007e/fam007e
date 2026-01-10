@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
-- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
+- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - This script automates the download of past exam papers and mark schemes from the Xtremepapers &amp; PapaCambridge websites for CAIE and Edexcel boards. It allows users to select exam boards, levels, and subjects, and organizes the downloaded files into well-structured directories based on the exam type and content (question papers, mark schemes, etc.).
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
-- [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
-- [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
+- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
+- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🌱 My latest projects
 
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
@@ -29,11 +29,11 @@
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 ### 🔨 My recent Pull Requests
 
-- [Docs: Update documentation with strict CI/CD and security details](https://github.com/fam007e/nerd_fonts_installer/pull/8) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
-- [Chore/gha security updates](https://github.com/ChrisTitusTech/linutil/pull/1170) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [fix(ci): version update for release](https://github.com/fam007e/vcfmerger/pull/2) on [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger)
-- [Fix strict-aliasing warning in gpu_wsl.cpp](https://github.com/fastfetch-cli/fastfetch/pull/2106) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- [feat: Improve SRT translation script](https://github.com/fam007e/SRT_Trans/pull/1) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
+- [[Snyk] Security upgrade h11 from 0.9.0 to 0.16.0](https://github.com/fam007e/SRT_Trans/pull/3) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
+- [[Snyk] Security upgrade requests from 2.31.0 to 2.32.2](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/3) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
+- [[Snyk] Security upgrade urllib3 from 2.0.7 to 1.26.19](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/2) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
+- [Fix/termux sqlcipher shim](https://github.com/fam007e/SecurePasswd_MGMT/pull/7) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [fix(core): implement security-hardened sqlite3_key shim for Termux](https://github.com/fam007e/SecurePasswd_MGMT/pull/6) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
