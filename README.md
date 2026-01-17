@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
+- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
-- [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
-- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
 ### 🌱 My latest projects
 
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade pypdf from 5.0.0 to 6.6.0](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/5) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
+- [feat(gui): add keyboard shortcuts and fix Health Check crash](https://github.com/fam007e/SecurePasswd_MGMT/pull/8) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [[Snyk] Security upgrade h11 from 0.9.0 to 0.16.0](https://github.com/fam007e/SRT_Trans/pull/3) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
 - [[Snyk] Security upgrade requests from 2.31.0 to 2.32.2](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/3) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
 - [[Snyk] Security upgrade urllib3 from 2.0.7 to 1.26.19](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/2) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
-- [Fix/termux sqlcipher shim](https://github.com/fam007e/SecurePasswd_MGMT/pull/7) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [fix(core): implement security-hardened sqlite3_key shim for Termux](https://github.com/fam007e/SecurePasswd_MGMT/pull/6) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
