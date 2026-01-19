@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [docs: audit and update CITATION.cff and CHANGELOG.md for 2026.01.17](https://github.com/fam007e/SecurePasswd_MGMT/pull/11) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [build: fix missing SQLCipher headers on Windows (#9)](https://github.com/fam007e/SecurePasswd_MGMT/pull/10) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [build: fix missing SQLCipher headers on Windows](https://github.com/fam007e/SecurePasswd_MGMT/pull/9) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [[Snyk] Security upgrade pypdf from 5.0.0 to 6.6.0](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/5) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
 - [feat(gui): add keyboard shortcuts and fix Health Check crash](https://github.com/fam007e/SecurePasswd_MGMT/pull/8) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [[Snyk] Security upgrade h11 from 0.9.0 to 0.16.0](https://github.com/fam007e/SRT_Trans/pull/3) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
