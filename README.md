@@ -15,8 +15,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [fix(frontend): resolve ESLint &#39;no-unused-vars&#39; error in App.jsx](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/6) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
 - [docs: audit and update CITATION.cff and CHANGELOG.md for 2026.01.17](https://github.com/fam007e/SecurePasswd_MGMT/pull/11) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [build: fix missing SQLCipher headers on Windows (#9)](https://github.com/fam007e/SecurePasswd_MGMT/pull/10) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [build: fix missing SQLCipher headers on Windows](https://github.com/fam007e/SecurePasswd_MGMT/pull/9) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [[Snyk] Security upgrade pypdf from 5.0.0 to 6.6.0](https://github.com/fam007e/OandALvl-exam-paper-downloader/pull/5) on [fam007e/OandALvl-exam-paper-downloader](https://github.com/fam007e/OandALvl-exam-paper-downloader)
-- [feat(gui): add keyboard shortcuts and fix Health Check crash](https://github.com/fam007e/SecurePasswd_MGMT/pull/8) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
