@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [Fix information exposure through exceptions and update project requir…](https://github.com/fam007e/examquest/pull/8) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Migration to ExamQuest: Async scraper, context-aware search, and repo rebranding](https://github.com/fam007e/examquest/pull/7) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [fix(frontend): resolve ESLint &#39;no-unused-vars&#39; error in App.jsx](https://github.com/fam007e/examquest/pull/6) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [docs: audit and update CITATION.cff and CHANGELOG.md for 2026.01.17](https://github.com/fam007e/SecurePasswd_MGMT/pull/11) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [build: fix missing SQLCipher headers on Windows (#9)](https://github.com/fam007e/SecurePasswd_MGMT/pull/10) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [build: fix missing SQLCipher headers on Windows](https://github.com/fam007e/SecurePasswd_MGMT/pull/9) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
