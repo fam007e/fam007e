@@ -15,8 +15,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 - [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
+- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [security-audit: update python-multipart to 0.0.22 and pypdf to 6.6.2](https://github.com/fam007e/examquest/pull/11) on [fam007e/examquest](https://github.com/fam007e/examquest)
+- [Revert &#34;Fix/security updates python multipart pypdf&#34;](https://github.com/fam007e/examquest/pull/10) on [fam007e/examquest](https://github.com/fam007e/examquest)
+- [Fix/security updates python multipart pypdf](https://github.com/fam007e/examquest/pull/9) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Fix information exposure through exceptions and update project requir…](https://github.com/fam007e/examquest/pull/8) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Migration to ExamQuest: Async scraper, context-aware search, and repo rebranding](https://github.com/fam007e/examquest/pull/7) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [fix(frontend): resolve ESLint &#39;no-unused-vars&#39; error in App.jsx](https://github.com/fam007e/examquest/pull/6) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [docs: audit and update CITATION.cff and CHANGELOG.md for 2026.01.17](https://github.com/fam007e/SecurePasswd_MGMT/pull/11) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [build: fix missing SQLCipher headers on Windows (#9)](https://github.com/fam007e/SecurePasswd_MGMT/pull/10) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
