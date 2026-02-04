@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [feat: add break-type masks and fix BreakCount reporting (fixes #54)](https://github.com/JimmyLefevre/kb/pull/55) on [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb)
 - [security-audit: update python-multipart to 0.0.22 and pypdf to 6.6.2](https://github.com/fam007e/examquest/pull/11) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Revert &#34;Fix/security updates python multipart pypdf&#34;](https://github.com/fam007e/examquest/pull/10) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Fix/security updates python multipart pypdf](https://github.com/fam007e/examquest/pull/9) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Fix information exposure through exceptions and update project requir…](https://github.com/fam007e/examquest/pull/8) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [Migration to ExamQuest: Async scraper, context-aware search, and repo rebranding](https://github.com/fam007e/examquest/pull/7) on [fam007e/examquest](https://github.com/fam007e/examquest)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
