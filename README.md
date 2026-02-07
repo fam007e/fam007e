@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/examvault](https://github.com/fam007e/examvault) - A modern platform for digitizing and auto-grading CIE Physics exams using multimodal LLMs.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 - [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
-- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🌱 My latest projects
 
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
@@ -29,11 +29,11 @@
 - [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
-- [feat: add break-type masks and fix BreakCount reporting (fixes #54)](https://github.com/JimmyLefevre/kb/pull/55) on [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb)
-- [security-audit: update python-multipart to 0.0.22 and pypdf to 6.6.2](https://github.com/fam007e/examquest/pull/11) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [Revert &#34;Fix/security updates python multipart pypdf&#34;](https://github.com/fam007e/examquest/pull/10) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [Fix/security updates python multipart pypdf](https://github.com/fam007e/examquest/pull/9) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [Fix information exposure through exceptions and update project requir…](https://github.com/fam007e/examquest/pull/8) on [fam007e/examquest](https://github.com/fam007e/examquest)
+- [fix(core): add missing windows.h include for Win32 API support](https://github.com/fam007e/SecurePasswd_MGMT/pull/16) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [build: increase salt path buffer sizes to resolve -Wformat-truncation](https://github.com/fam007e/SecurePasswd_MGMT/pull/15) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [Fix/workflow checks documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/14) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [Fix/workflow checks documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/13) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [security: implement fetch-on-demand, fix workflow check findings, and…](https://github.com/fam007e/SecurePasswd_MGMT/pull/12) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
