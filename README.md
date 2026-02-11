@@ -15,10 +15,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - Subtitle (srt) translator.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/examvault](https://github.com/fam007e/examvault) - A modern platform for digitizing and auto-grading CIE Physics exams using multimodal LLMs.
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 ### 🌱 My latest projects
 
