@@ -15,25 +15,25 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - Subtitle (srt) translator.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/examvault](https://github.com/fam007e/examvault) - A modern platform for digitizing and auto-grading CIE Physics exams using multimodal LLMs.
-- [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 ### 🌱 My latest projects
 
+- [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
-- [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 ### 🔨 My recent Pull Requests
 
+- [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/fam007e/hold/pull/5) on [fam007e/hold](https://github.com/fam007e/hold)
 - [fix(core): add missing windows.h include for Win32 API support](https://github.com/fam007e/SecurePasswd_MGMT/pull/16) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [build: increase salt path buffer sizes to resolve -Wformat-truncation](https://github.com/fam007e/SecurePasswd_MGMT/pull/15) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Fix/workflow checks documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/14) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Fix/workflow checks documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/13) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [security: implement fetch-on-demand, fix workflow check findings, and…](https://github.com/fam007e/SecurePasswd_MGMT/pull/12) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
