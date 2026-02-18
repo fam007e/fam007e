@@ -29,11 +29,11 @@
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade rspec-rails from 8.0.2 to 8.0.3](https://github.com/fam007e/metasploit-framework/pull/1) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [docs: audit security versions and enhance UI](https://github.com/fam007e/nerd_fonts_installer/pull/9) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [Fix: resolve discarded-qualifiers warnings in common implementation](https://github.com/fastfetch-cli/fastfetch/pull/2181) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/fam007e/hold/pull/5) on [fam007e/hold](https://github.com/fam007e/hold)
 - [fix(core): add missing windows.h include for Win32 API support](https://github.com/fam007e/SecurePasswd_MGMT/pull/16) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [build: increase salt path buffer sizes to resolve -Wformat-truncation](https://github.com/fam007e/SecurePasswd_MGMT/pull/15) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
