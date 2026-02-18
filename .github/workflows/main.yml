@@ -8,10 +8,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -34,14 +34,14 @@ jobs:
           
       # Attest the generated snake game SVG
       - name: Attest the snake game SVG
-        uses: actions/attest-build-provenance@v1
+        uses: actions/attest-build-provenance@v2
         with:
           subject-path: 'dist/github-contribution-grid-snake.svg'
         
       # Push the content of <build_dir> to a branch
       # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
