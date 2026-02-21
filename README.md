@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/libexecinfo](https://github.com/fam007e/libexecinfo) - A modern, BSD-licensed clone of the backtrace facility found in GNU libc. This library is primarily intended for porting Linux code to BSD platforms and other systems that don&#39;t have built-in backtrace support.
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
-- [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 ### 🌱 My latest projects
 
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
@@ -29,18 +29,18 @@
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🔨 My recent Pull Requests
 
-- [[Snyk] Security upgrade rspec-rails from 8.0.2 to 8.0.3](https://github.com/fam007e/metasploit-framework/pull/1) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
-- [docs: audit security versions and enhance UI](https://github.com/fam007e/nerd_fonts_installer/pull/9) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
-- [Fix: resolve discarded-qualifiers warnings in common implementation](https://github.com/fastfetch-cli/fastfetch/pull/2181) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/fam007e/hold/pull/5) on [fam007e/hold](https://github.com/fam007e/hold)
-- [fix(core): add missing windows.h include for Win32 API support](https://github.com/fam007e/SecurePasswd_MGMT/pull/16) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [Remove packaging status badge](https://github.com/fam007e/SecurePasswd_MGMT/pull/20) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [docs: add CI, AUR, and Repology badges to README](https://github.com/fam007e/SecurePasswd_MGMT/pull/19) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [docs: add CI, AUR, and Repology badges to README and center them](https://github.com/fam007e/SecurePasswd_MGMT/pull/18) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [docs: add CI build status and AUR version badges to README](https://github.com/fam007e/SecurePasswd_MGMT/pull/17) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [[Snyk] Fix for 3 vulnerabilities](https://github.com/fam007e/integration-benchmark/pull/1) on [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark)
 ### ⭐ Recent Stars
 
+- [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [JimmyLefevre/kb](https://github.com/JimmyLefevre/kb) - kb single-header C/C&#43;&#43; libraries
-- [harfbuzz/harfbuzz](https://github.com/harfbuzz/harfbuzz) - HarfBuzz text shaping engine
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
