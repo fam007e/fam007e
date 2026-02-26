@@ -20,7 +20,7 @@ jobs:
           mkdir -p ~/.cache
           mkdir -p ~/.npm
           mkdir -p ~/.local
-
+          
       - name: Cache dependencies
         uses: actions/cache@v5
         with:
@@ -32,7 +32,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-metrics-
             ${{ runner.os }}-
-
+            
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -48,8 +48,6 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 90
-          quota_required_rest: 50
-          quota_required_graphql: 50
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
