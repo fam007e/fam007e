@@ -34,7 +34,7 @@ jobs:
           
       # Attest the generated snake game SVG
       - name: Attest the snake game SVG
-        uses: actions/attest-build-provenance@v3
+        uses: actions/attest-build-provenance@v4
         with:
           subject-path: 'dist/github-contribution-grid-snake.svg'
         
