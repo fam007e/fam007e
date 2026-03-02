@@ -15,7 +15,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans) - Subtitle (srt) translator.
+- [fam007e/srt_trans](https://github.com/fam007e/srt_trans) - Subtitle (srt) translator.
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
@@ -29,7 +29,7 @@
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🔨 My recent Pull Requests
 
-- [[Snyk] Fix for 6 vulnerabilities](https://github.com/fam007e/SRT_Trans/pull/5) on [fam007e/SRT_Trans](https://github.com/fam007e/SRT_Trans)
+- [[Snyk] Fix for 6 vulnerabilities](https://github.com/fam007e/srt_trans/pull/5) on [fam007e/srt_trans](https://github.com/fam007e/srt_trans)
 - [fix: update pypdf to 6.7.1 and improve scraper PDF link detection](https://github.com/fam007e/examquest/pull/13) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Remove packaging status badge](https://github.com/fam007e/SecurePasswd_MGMT/pull/20) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [docs: add CI, AUR, and Repology badges to README](https://github.com/fam007e/SecurePasswd_MGMT/pull/19) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
