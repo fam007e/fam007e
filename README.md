@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files.
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
+- [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/srt_trans](https://github.com/fam007e/srt_trans) - Subtitle (srt) translator.
-- [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
 ### 🌱 My latest projects
 
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
@@ -29,11 +29,11 @@
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade php from 8.3-fpm to 8.5.4RC1-cli-alpine3.22](https://github.com/fam007e/metasploit-framework/pull/2) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [[Snyk] Fix for 6 vulnerabilities](https://github.com/fam007e/srt_trans/pull/5) on [fam007e/srt_trans](https://github.com/fam007e/srt_trans)
 - [fix: update pypdf to 6.7.1 and improve scraper PDF link detection](https://github.com/fam007e/examquest/pull/13) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [Remove packaging status badge](https://github.com/fam007e/SecurePasswd_MGMT/pull/20) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [docs: add CI, AUR, and Repology badges to README](https://github.com/fam007e/SecurePasswd_MGMT/pull/19) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [docs: add CI, AUR, and Repology badges to README and center them](https://github.com/fam007e/SecurePasswd_MGMT/pull/18) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
