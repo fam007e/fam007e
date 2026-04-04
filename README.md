@@ -29,18 +29,18 @@
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade rubocop from 1.75.8 to 1.76.0](https://github.com/fam007e/metasploit-framework/pull/4) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [[Snyk] Security upgrade rubocop from 1.75.7 to 1.75.8](https://github.com/fam007e/metasploit-framework/pull/3) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [feat: add search functionality to CLI and GUI &#43; smarter CSV import](https://github.com/fam007e/SecurePasswd_MGMT/pull/25) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix(ci): update vcpkg baseline to fix getopt-win32 404 error](https://github.com/fam007e/SecurePasswd_MGMT/pull/24) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Release v2026.03.14: Security Remediations and Project Documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/23) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [feat: Security Remediations and Project Documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/22) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
+- [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [woheller69/FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
