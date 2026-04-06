@@ -36,7 +36,7 @@
 - [Release v2026.03.14: Security Remediations and Project Documentation](https://github.com/fam007e/SecurePasswd_MGMT/pull/23) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout
 - [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
