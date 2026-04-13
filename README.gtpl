@@ -33,7 +33,6 @@
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
   - Mastodon  : <https://mastodon.social/@fam007e>
-  - LinkedIn  : <https://www.linkedin.com/in/fam007e/>
   - ORCiD     : <https://orcid.org/0000-0002-4969-8919>
 
 <p align="center">
