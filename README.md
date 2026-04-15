@@ -29,11 +29,11 @@
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🔨 My recent Pull Requests
 
+- [Tests: Remove insecure location.hash evaluation in Range-test-iframe.html](https://github.com/LadybirdBrowser/ladybird/pull/8918) on [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [fix(strbuf): resolve potential use-after-free and UB in ffStrbufSetNS](https://github.com/fastfetch-cli/fastfetch/pull/2265) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [[Snyk] Security upgrade rubocop from 1.75.8 to 1.76.0](https://github.com/fam007e/metasploit-framework/pull/4) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [[Snyk] Security upgrade rubocop from 1.75.7 to 1.75.8](https://github.com/fam007e/metasploit-framework/pull/3) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [feat: add search functionality to CLI and GUI &#43; smarter CSV import](https://github.com/fam007e/SecurePasswd_MGMT/pull/25) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [fix(ci): update vcpkg baseline to fix getopt-win32 404 error](https://github.com/fam007e/SecurePasswd_MGMT/pull/24) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
