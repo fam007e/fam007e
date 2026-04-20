@@ -16,9 +16,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
+- [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
-- [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 ### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [[Snyk] Security upgrade yard from 0.9.37 to 0.9.42](https://github.com/fam007e/metasploit-framework/pull/5) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [Tests: Remove insecure location.hash evaluation in Range-test-iframe.html](https://github.com/LadybirdBrowser/ladybird/pull/8918) on [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [fix(strbuf): resolve potential use-after-free and UB in ffStrbufSetNS](https://github.com/fastfetch-cli/fastfetch/pull/2265) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [[Snyk] Security upgrade rubocop from 1.75.8 to 1.76.0](https://github.com/fam007e/metasploit-framework/pull/4) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [[Snyk] Security upgrade rubocop from 1.75.7 to 1.75.8](https://github.com/fam007e/metasploit-framework/pull/3) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
-- [feat: add search functionality to CLI and GUI &#43; smarter CSV import](https://github.com/fam007e/SecurePasswd_MGMT/pull/25) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
