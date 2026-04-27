@@ -15,10 +15,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
-- [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 ### 🌱 My latest projects
 
@@ -29,18 +29,18 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [Audit: Synchronize keyboard shortcuts and unify Tool implementation with `ToolFuture` alias](https://github.com/fam007e/dev-toolbox/pull/33) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
+- [Bump version to v2026.4.26](https://github.com/fam007e/dev-toolbox/pull/32) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
 - [[Snyk] Security upgrade yard from 0.9.37 to 0.9.42](https://github.com/fam007e/metasploit-framework/pull/5) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [Tests: Remove insecure location.hash evaluation in Range-test-iframe.html](https://github.com/LadybirdBrowser/ladybird/pull/8918) on [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 - [fix(strbuf): resolve potential use-after-free and UB in ffStrbufSetNS](https://github.com/fastfetch-cli/fastfetch/pull/2265) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- [[Snyk] Security upgrade rubocop from 1.75.8 to 1.76.0](https://github.com/fam007e/metasploit-framework/pull/4) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
-- [[Snyk] Security upgrade rubocop from 1.75.7 to 1.75.8](https://github.com/fam007e/metasploit-framework/pull/3) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 ### ⭐ Recent Stars
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout
-- [openjournals/joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
