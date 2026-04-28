@@ -36,11 +36,11 @@
 - [fix(strbuf): resolve potential use-after-free and UB in ffStrbufSetNS](https://github.com/fastfetch-cli/fastfetch/pull/2265) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 ### ⭐ Recent Stars
 
+- [JCWasmx86/mesonlsp](https://github.com/JCWasmx86/mesonlsp) - An unofficial, unendorsed language server for meson written in C&#43;&#43;
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate &amp; comprehensive text measurement &amp; layout
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
