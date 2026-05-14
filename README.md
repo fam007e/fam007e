@@ -36,11 +36,11 @@
 - [fix(strbuf): resolve potential use-after-free and UB in ffStrbufSetNS](https://github.com/fastfetch-cli/fastfetch/pull/2265) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 ### ⭐ Recent Stars
 
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [ThexXTURBOXx/dex2jar](https://github.com/ThexXTURBOXx/dex2jar) - Tools to work with android .dex and java .class files
 - [JCWasmx86/mesonlsp](https://github.com/JCWasmx86/mesonlsp) - An unofficial, unendorsed language server for meson written in C&#43;&#43;
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU &amp; Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
