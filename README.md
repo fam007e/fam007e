@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 ### 🌱 My latest projects
 
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
@@ -29,18 +29,18 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [fix: cast multiplication operands to `long` to prevent overflow (CodeQL #497–#501)](https://github.com/fam007e/SecurePasswd_MGMT/pull/26) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Audit: Synchronize keyboard shortcuts and unify Tool implementation with `ToolFuture` alias](https://github.com/fam007e/dev-toolbox/pull/33) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
 - [Bump version to v2026.4.26](https://github.com/fam007e/dev-toolbox/pull/32) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
 - [[Snyk] Security upgrade yard from 0.9.37 to 0.9.42](https://github.com/fam007e/metasploit-framework/pull/5) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [Tests: Remove insecure location.hash evaluation in Range-test-iframe.html](https://github.com/LadybirdBrowser/ladybird/pull/8918) on [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-- [fix(strbuf): resolve potential use-after-free and UB in ffStrbufSetNS](https://github.com/fastfetch-cli/fastfetch/pull/2265) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 ### ⭐ Recent Stars
 
+- [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [ThexXTURBOXx/dex2jar](https://github.com/ThexXTURBOXx/dex2jar) - Tools to work with android .dex and java .class files
 - [JCWasmx86/mesonlsp](https://github.com/JCWasmx86/mesonlsp) - An unofficial, unendorsed language server for meson written in C&#43;&#43;
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
