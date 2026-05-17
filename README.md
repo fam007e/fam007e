@@ -29,18 +29,18 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [fix:debian dependencies and docs audit](https://github.com/fam007e/SecurePasswd_MGMT/pull/28) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [fix: cast multiplication operands to `long` to prevent overflow in `qrcodegen`](https://github.com/fam007e/SecurePasswd_MGMT/pull/27) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix: cast multiplication operands to `long` to prevent overflow (CodeQL #497–#501)](https://github.com/fam007e/SecurePasswd_MGMT/pull/26) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Audit: Synchronize keyboard shortcuts and unify Tool implementation with `ToolFuture` alias](https://github.com/fam007e/dev-toolbox/pull/33) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
 - [Bump version to v2026.4.26](https://github.com/fam007e/dev-toolbox/pull/32) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
-- [[Snyk] Security upgrade yard from 0.9.37 to 0.9.42](https://github.com/fam007e/metasploit-framework/pull/5) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
-- [Tests: Remove insecure location.hash evaluation in Range-test-iframe.html](https://github.com/LadybirdBrowser/ladybird/pull/8918) on [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
 ### ⭐ Recent Stars
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 - [ThexXTURBOXx/dex2jar](https://github.com/ThexXTURBOXx/dex2jar) - Tools to work with android .dex and java .class files
-- [JCWasmx86/mesonlsp](https://github.com/JCWasmx86/mesonlsp) - An unofficial, unendorsed language server for meson written in C&#43;&#43;
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
