@@ -15,9 +15,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 ### 🌱 My latest projects
@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [docs: revamp documentation hierarchy and refine metadata](https://github.com/ChrisTitusTech/linutil/pull/1292) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
+- [[Snyk] Security upgrade ruby from 3.3.8-alpine3.21 to 3.4.7-alpine3.21](https://github.com/fam007e/metasploit-framework/pull/6) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 - [fix:debian dependencies and docs audit](https://github.com/fam007e/SecurePasswd_MGMT/pull/28) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix: cast multiplication operands to `long` to prevent overflow in `qrcodegen`](https://github.com/fam007e/SecurePasswd_MGMT/pull/27) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix: cast multiplication operands to `long` to prevent overflow (CodeQL #497–#501)](https://github.com/fam007e/SecurePasswd_MGMT/pull/26) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [Audit: Synchronize keyboard shortcuts and unify Tool implementation with `ToolFuture` alias](https://github.com/fam007e/dev-toolbox/pull/33) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
-- [Bump version to v2026.4.26](https://github.com/fam007e/dev-toolbox/pull/32) on [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox)
 ### ⭐ Recent Stars
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
