@@ -17,9 +17,9 @@
 
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
+- [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream) - 
 - [fam007e/srt_trans](https://github.com/fam007e/srt_trans) - Subtitle (srt) translator.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
-- [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
 ### 🌱 My latest projects
 
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [fix: Cloudstream Gradle Plugin Dependency &#43; Bdix DhakaFlix Poster Fix](https://github.com/redowan99/Redowan-CloudStream/pull/140) on [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream)
 - [Packages: fix -Wstringop-overflow warning](https://github.com/fastfetch-cli/fastfetch/pull/2361) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
 - [fix: TMDB metadata enrichment for BdixDhakaFlix14Provider](https://github.com/redowan99/Redowan-CloudStream/pull/139) on [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream)
 - [fix: use fixed port 33261 with fallback and improve LAN IP detection](https://github.com/fam007e/SecurePasswd_MGMT/pull/29) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [docs: revamp documentation hierarchy and refine metadata](https://github.com/ChrisTitusTech/linutil/pull/1292) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
-- [[Snyk] Security upgrade ruby from 3.3.8-alpine3.21 to 3.4.7-alpine3.21](https://github.com/fam007e/metasploit-framework/pull/6) on [fam007e/metasploit-framework](https://github.com/fam007e/metasploit-framework)
 ### ⭐ Recent Stars
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
