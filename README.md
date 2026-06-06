@@ -15,10 +15,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 - [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream) - 
-- [fam007e/srt_trans](https://github.com/fam007e/srt_trans) - Subtitle (srt) translator.
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 ### 🌱 My latest projects
 
