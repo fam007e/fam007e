@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
+- [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 - [fam007e/Complex_DWM_SLock](https://github.com/fam007e/Complex_DWM_SLock) - SLock configs with blurred screen
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
-- [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream) - 
 ### 🌱 My latest projects
 
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
-- [fix: Cloudstream Gradle Plugin Dependency &#43; Bdix DhakaFlix Poster Fix](https://github.com/redowan99/Redowan-CloudStream/pull/140) on [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream)
-- [Packages: fix -Wstringop-overflow warning](https://github.com/fastfetch-cli/fastfetch/pull/2361) on [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch)
-- [fix: TMDB metadata enrichment for BdixDhakaFlix14Provider](https://github.com/redowan99/Redowan-CloudStream/pull/139) on [redowan99/Redowan-CloudStream](https://github.com/redowan99/Redowan-CloudStream)
-- [fix: use fixed port 33261 with fallback and improve LAN IP detection](https://github.com/fam007e/SecurePasswd_MGMT/pull/29) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [docs: revamp documentation hierarchy and refine metadata](https://github.com/ChrisTitusTech/linutil/pull/1292) on [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil)
+- [fix: harden temp handling, cleanup, and cross-file consistency](https://github.com/fam007e/nerd_fonts_installer/pull/11) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
+- [ci: refactor discord notifications and harden C installer security](https://github.com/fam007e/nerd_fonts_installer/pull/10) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
+- [fix(ci): add checkout step to release job](https://github.com/fam007e/examquest/pull/33) on [fam007e/examquest](https://github.com/fam007e/examquest)
+- [feat(ci): standardize release workflow on tag push and transition python publish to Trusted Publishers](https://github.com/fam007e/examquest/pull/32) on [fam007e/examquest](https://github.com/fam007e/examquest)
+- [fix(ci): use printf for real newlines in Discord webhook](https://github.com/fam007e/examquest/pull/31) on [fam007e/examquest](https://github.com/fam007e/examquest)
 ### ⭐ Recent Stars
 
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
