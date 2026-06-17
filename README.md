@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [Potential fix for code scanning alert no. 122: Comparison of narrow type with wide type in loop condition](https://github.com/fam007e/ladybird/pull/6) on [fam007e/ladybird](https://github.com/fam007e/ladybird)
 - [fix: harden temp handling, cleanup, and cross-file consistency](https://github.com/fam007e/nerd_fonts_installer/pull/11) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [ci: refactor discord notifications and harden C installer security](https://github.com/fam007e/nerd_fonts_installer/pull/10) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [fix(ci): add checkout step to release job](https://github.com/fam007e/examquest/pull/33) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [feat(ci): standardize release workflow on tag push and transition python publish to Trusted Publishers](https://github.com/fam007e/examquest/pull/32) on [fam007e/examquest](https://github.com/fam007e/examquest)
-- [fix(ci): use printf for real newlines in Discord webhook](https://github.com/fam007e/examquest/pull/31) on [fam007e/examquest](https://github.com/fam007e/examquest)
 ### ⭐ Recent Stars
 
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
