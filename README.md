@@ -36,11 +36,11 @@
 - [feat(ci): standardize release workflow on tag push and transition python publish to Trusted Publishers](https://github.com/fam007e/examquest/pull/32) on [fam007e/examquest](https://github.com/fam007e/examquest)
 ### ⭐ Recent Stars
 
+- [Gakuseei/rishot](https://github.com/Gakuseei/rishot) - Wayland screenshot &#43; annotation overlay built on Quickshell
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) - An ASF plugin for finding and redeeming free Steam games
 - [lenucksi/aur-malware-check](https://github.com/lenucksi/aur-malware-check) - Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.
 - [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C&#43;&#43; Library Manager for Windows, Linux, and MacOS
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
