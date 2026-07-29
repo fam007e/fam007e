@@ -36,7 +36,7 @@
 - [fix: recognize rocky and almalinux as RHEL-family distros](https://github.com/fam007e/nerd_fonts_installer/pull/13) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
-- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 18 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
+- [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
 - [Gakuseei/rishot](https://github.com/Gakuseei/rishot) - Wayland screenshot &#43; annotation overlay built on Quickshell
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [Citrinate/FreePackages](https://github.com/Citrinate/FreePackages) - An ASF plugin for finding and redeeming free Steam games
