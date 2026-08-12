@@ -15,10 +15,10 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer) - Nerd-fonts installer.
-- [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
+- [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 - [fam007e/dev-toolbox](https://github.com/fam007e/dev-toolbox) - A modular, secure CLI application for GitHub organization research, repository exploration, Unicode character analysis, and JWT decoding.
 ### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [feat: add Void Linux support for automatic package installation](https://github.com/fam007e/nerd_fonts_installer/pull/19) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [Add star history chart to README](https://github.com/fam007e/nerd_fonts_installer/pull/17) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [docs: general audit and bump minimum supported version to v2026.07.17](https://github.com/fam007e/nerd_fonts_installer/pull/16) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [fix: recognize Omarchy as an Arch-family distro](https://github.com/fam007e/nerd_fonts_installer/pull/15) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [fix: remove futile conditional in create_directories](https://github.com/fam007e/nerd_fonts_installer/pull/14) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
-- [fix: recognize rocky and almalinux as RHEL-family distros](https://github.com/fam007e/nerd_fonts_installer/pull/13) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
 - [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
