@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
-- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
-- [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 - [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
+- [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 ### 🌱 My latest projects
 
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
