@@ -15,8 +15,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/examquest](https://github.com/fam007e/examquest) - High-performance dashboard for CAIE &amp; Edexcel past papers. Features real-time filtering, automated merging, and a premium UI.
 - [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
@@ -29,11 +29,11 @@
 - [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
 ### 🔨 My recent Pull Requests
 
+- [cpack: use dpkg-shlibdeps for accurate Debian dependency resolution](https://github.com/fam007e/SecurePasswd_MGMT/pull/31) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Feat/add png icon install](https://github.com/fam007e/SecurePasswd_MGMT/pull/30) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix(deps): override @babel/core to resolve security vulnerability](https://github.com/fam007e/examquest/pull/39) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [feat: add Void Linux support for automatic package installation](https://github.com/fam007e/nerd_fonts_installer/pull/19) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 - [Add star history chart to README](https://github.com/fam007e/nerd_fonts_installer/pull/17) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
-- [docs: general audit and bump minimum supported version to v2026.07.17](https://github.com/fam007e/nerd_fonts_installer/pull/16) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
