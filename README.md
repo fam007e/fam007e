@@ -36,11 +36,11 @@
 - [Add star history chart to README](https://github.com/fam007e/nerd_fonts_installer/pull/17) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model through API
 - [Evrytania/LTE-Cell-Scanner](https://github.com/Evrytania/LTE-Cell-Scanner) - LTE SDR cell scanner optimized to work with very low performance RF front ends (8bit A/D, 20dB noise figure)
 - [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT) - AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 19 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
 - [Gakuseei/rishot](https://github.com/Gakuseei/rishot) - Wayland screenshot &#43; annotation overlay built on Quickshell
-- [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
