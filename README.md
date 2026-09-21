@@ -36,11 +36,11 @@
 - [Add star history chart to README](https://github.com/fam007e/nerd_fonts_installer/pull/17) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
+- [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 - [JCSDA/crtm](https://github.com/JCSDA/crtm) - 
 - [JCSDA/pycrtm](https://github.com/JCSDA/pycrtm) - 
 - [tsoding/tatr](https://github.com/tsoding/tatr) - Task Tracker
 - [fmtlib/fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
