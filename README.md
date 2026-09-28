@@ -36,11 +36,11 @@
 - [Add star history chart to README](https://github.com/fam007e/nerd_fonts_installer/pull/17) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 - [quickshell-mirror/quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 - [Drbsy/image2ascii](https://github.com/Drbsy/image2ascii) - this tool convert images into retro ascii art
 - [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
 - [JCSDA/crtm](https://github.com/JCSDA/crtm) - 
-- [JCSDA/pycrtm](https://github.com/JCSDA/pycrtm) - 
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
