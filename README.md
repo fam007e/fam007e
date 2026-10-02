@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger) - A Python utility to merge and deduplicate VCF (vCard) contact files.
 - [fam007e/grub-theme-template](https://github.com/fam007e/grub-theme-template) - Configurable GRUB2 boot theme — swap fonts, background, colors, and menu layout via a single config file. No hand-editing theme.txt, no pre-baked .pf2 fonts required.
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
-- [fam007e/rofi-chem](https://github.com/fam007e/rofi-chem) - Rofi mode with periodic table functionality.
 ### 🌱 My latest projects
 
 - [fam007e/grub-theme-template](https://github.com/fam007e/grub-theme-template) - Configurable GRUB2 boot theme — swap fonts, background, colors, and menu layout via a single config file. No hand-editing theme.txt, no pre-baked .pf2 fonts required.
@@ -29,11 +29,11 @@
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
 ### 🔨 My recent Pull Requests
 
+- [Refactor Discord webhook notification workflow](https://github.com/fam007e/vcfmerger/pull/7) on [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger)
 - [cpack: use dpkg-shlibdeps for accurate Debian dependency resolution](https://github.com/fam007e/SecurePasswd_MGMT/pull/31) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Feat/add png icon install](https://github.com/fam007e/SecurePasswd_MGMT/pull/30) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix(deps): override @babel/core to resolve security vulnerability](https://github.com/fam007e/examquest/pull/39) on [fam007e/examquest](https://github.com/fam007e/examquest)
 - [feat: add Void Linux support for automatic package installation](https://github.com/fam007e/nerd_fonts_installer/pull/19) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
-- [Add star history chart to README](https://github.com/fam007e/nerd_fonts_installer/pull/17) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
