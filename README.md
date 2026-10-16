@@ -36,11 +36,11 @@
 - [feat: add Void Linux support for automatic package installation](https://github.com/fam007e/nerd_fonts_installer/pull/19) on [fam007e/nerd_fonts_installer](https://github.com/fam007e/nerd_fonts_installer)
 ### ⭐ Recent Stars
 
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43;
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [utkarsh261/pho](https://github.com/utkarsh261/pho) - TUI for Github Pull Requests
 - [0xdeadf1sh/AssemblyForNeovim](https://github.com/0xdeadf1sh/AssemblyForNeovim) - Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C&#43;&#43;, and Rust.
 - [a-shygun/Terrascope](https://github.com/a-shygun/Terrascope) - Braille-rendered terminal world map with live weather, aircraft, earthquakes, and day/night layers.
-- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
