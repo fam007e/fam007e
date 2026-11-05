@@ -29,11 +29,11 @@
 - [fam007e/integration-benchmark](https://github.com/fam007e/integration-benchmark) - A comprehensive benchmarking framework for evaluating and comparing numerical integration methods using Figure of Merit (FOM) analysis.
 ### 🔨 My recent Pull Requests
 
+- [feat(sync): secure 2-way mobile sync with PSK&#43;X25519 handshake (v2)](https://github.com/fam007e/SecurePasswd_MGMT/pull/34) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix: harden Windows installer, validate TOTP secrets, add OSSign dispatch](https://github.com/fam007e/SecurePasswd_MGMT/pull/33) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Harden Discord webhook workflow and simplify PR template](https://github.com/fam007e/SecurePasswd_MGMT/pull/32) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [Refactor Discord webhook notification workflow](https://github.com/fam007e/vcfmerger/pull/7) on [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger)
 - [cpack: use dpkg-shlibdeps for accurate Debian dependency resolution](https://github.com/fam007e/SecurePasswd_MGMT/pull/31) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [Feat/add png icon install](https://github.com/fam007e/SecurePasswd_MGMT/pull/30) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
 - [melqtx/tork](https://github.com/melqtx/tork) - cli for searching and downloading torrents
