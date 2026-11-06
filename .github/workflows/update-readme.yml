@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-metrics-
             ${{ runner.os }}-
 
-      - uses: lowlighter/metrics@v3.34
+      - uses: EUR-UN/metrics-community@v3.35.0-community.2
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
@@ -51,13 +51,10 @@ jobs:
           plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: no
-          # plugin_lines disabled — lowlighter/metrics has an unfixed bug where
-          # plugins.lines.sections is undefined at render time, crashing lines.ejs.
-          # See: https://github.com/lowlighter/metrics/issues
-          # plugin_lines_history_limit: 1
-          # plugin_lines_repositories_limit: 4
-          # plugin_lines_sections: base, repositories
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base, repositories
           plugin_traffic: yes
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
