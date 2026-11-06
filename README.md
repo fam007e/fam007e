@@ -36,11 +36,11 @@
 - [cpack: use dpkg-shlibdeps for accurate Debian dependency resolution](https://github.com/fam007e/SecurePasswd_MGMT/pull/31) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 ### ⭐ Recent Stars
 
+- [EUR-UN/metrics-community](https://github.com/EUR-UN/metrics-community) - Community maintained distribution of metrics with automated upstream sync pipeline and multi-source updates.
 - [melqtx/tork](https://github.com/melqtx/tork) - cli for searching and downloading torrents
 - [MicroTed/wrf4-elec](https://github.com/MicroTed/wrf4-elec) - Beta versions of WRF-ELEC (aka E-WRF) for WRF 4.6.1 / 4.5.1 / 4.3.1. see doc/README.electricity for details
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43;
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- [utkarsh261/pho](https://github.com/utkarsh261/pho) - TUI for Github Pull Requests
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
