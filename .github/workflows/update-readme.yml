@@ -33,7 +33,7 @@ jobs:
             ${{ runner.os }}-metrics-
             ${{ runner.os }}-
 
-      - uses: EUR-UN/metrics-community@v3.35.0-community.2
+      - uses: EUR-UN/metrics-community@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
