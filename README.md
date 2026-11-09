@@ -16,9 +16,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk) - SecurePasswd MGMT for Android — Kotlin/Compose &#43; native C core. F-Droid friendly, reproducible builds. Mirror of the Codeberg repository.
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/narzo-50i-lineage](https://github.com/fam007e/narzo-50i-lineage) - Unlock, root &amp; install LineageOS 21 (Android 14) GSI on Realme Narzo 50i / C11 2021 (RMX3235/RMX3231, Unisoc SC9863A) — free, unbrickable, tested end-to-end on final firmware
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
 ### 🌱 My latest projects
 
@@ -29,11 +29,11 @@
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 ### 🔨 My recent Pull Requests
 
-- [feat(sync): 2-way sync v2 &#43; F-Droid repro policy &#43; hardening (mirror of Codeberg PR #3)](https://github.com/fam007e/securepasswd_mgmt_apk/pull/1) on [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk)
-- [feat(sync): secure 2-way mobile sync with PSK&#43;X25519 handshake (v2)](https://github.com/fam007e/SecurePasswd_MGMT/pull/34) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [fix: harden Windows installer, validate TOTP secrets, add OSSign dispatch](https://github.com/fam007e/SecurePasswd_MGMT/pull/33) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [Harden Discord webhook workflow and simplify PR template](https://github.com/fam007e/SecurePasswd_MGMT/pull/32) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [Refactor Discord webhook notification workflow](https://github.com/fam007e/vcfmerger/pull/7) on [fam007e/vcfmerger](https://github.com/fam007e/vcfmerger)
+- [fix(gui): read QSS template via QResource to close last code-scanning alert (#525)](https://github.com/fam007e/SecurePasswd_MGMT/pull/40) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [chore(release): prep v2026.11.09](https://github.com/fam007e/securepasswd_mgmt_apk/pull/3) on [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk)
+- [chore(release): prep v2026.11.09](https://github.com/fam007e/SecurePasswd_MGMT/pull/39) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [fix(gui): stop HealthCheckDialog HIBP worker from touching a destroyed dialog](https://github.com/fam007e/SecurePasswd_MGMT/pull/38) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [fix(sync): guard sibling gpg-merge label comparisons against NULL](https://github.com/fam007e/securepasswd_mgmt_apk/pull/2) on [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk)
 ### ⭐ Recent Stars
 
 - [EUR-UN/metrics-community](https://github.com/EUR-UN/metrics-community) - Community maintained distribution of metrics with automated upstream sync pipeline and multi-source updates.
