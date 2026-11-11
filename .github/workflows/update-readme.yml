@@ -59,5 +59,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors-graphs, os-graphs
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, json
-          plugin_wakatime_days: 14
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: current   # ADDED: use the token owner's account
+          plugin_wakatime_days: 7         # CHANGED: 14 -> 7 (test returned 200 for this range)
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}   # must now hold the OAuth token
