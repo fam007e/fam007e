@@ -15,8 +15,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk) - SecurePasswd MGMT for Android — Kotlin/Compose &#43; native C core. F-Droid friendly, reproducible builds. Mirror of the Codeberg repository.
+- [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/narzo-50i-lineage](https://github.com/fam007e/narzo-50i-lineage) - Unlock, root &amp; install LineageOS 21 (Android 14) GSI on Realme Narzo 50i / C11 2021 (RMX3235/RMX3231, Unisoc SC9863A) — free, unbrickable, tested end-to-end on final firmware
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
@@ -29,11 +29,11 @@
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 ### 🔨 My recent Pull Requests
 
+- [Update CITATION.cff](https://github.com/fam007e/SecurePasswd_MGMT/pull/41) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix(gui): read QSS via QResource, fix cppcheck member init, and add GUI shortcuts](https://github.com/fam007e/SecurePasswd_MGMT/pull/40) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [chore(release): prep v2026.11.09](https://github.com/fam007e/securepasswd_mgmt_apk/pull/3) on [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk)
-- [chore(release): prep v2026.11.09](https://github.com/fam007e/SecurePasswd_MGMT/pull/39) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
+- [chore(release): prep v2026.11.10](https://github.com/fam007e/SecurePasswd_MGMT/pull/39) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
 - [fix(gui): stop HealthCheckDialog HIBP worker from touching a destroyed dialog](https://github.com/fam007e/SecurePasswd_MGMT/pull/38) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [fix(sync): guard sibling gpg-merge label comparisons against NULL](https://github.com/fam007e/securepasswd_mgmt_apk/pull/2) on [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk)
 ### ⭐ Recent Stars
 
 - [EUR-UN/metrics-community](https://github.com/EUR-UN/metrics-community) - Community maintained distribution of metrics with automated upstream sync pipeline and multi-source updates.
