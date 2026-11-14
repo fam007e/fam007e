@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk) - SecurePasswd MGMT for Android — Kotlin/Compose &#43; native C core. F-Droid friendly, reproducible builds. Mirror of the Codeberg repository.
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
-- [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 ### 🌱 My latest projects
 
 - [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk) - SecurePasswd MGMT for Android — Kotlin/Compose &#43; native C core. F-Droid friendly, reproducible builds. Mirror of the Codeberg repository.
@@ -29,11 +29,11 @@
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 ### 🔨 My recent Pull Requests
 
-- [chore(release): prep v2026.11.12 — sync error handling, gradle bump, metadata, changelog](https://github.com/fam007e/securepasswd_mgmt_apk/pull/4) on [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk)
-- [fix(sync): resolve protocol deadlock and prep v2026.11.12 release](https://github.com/fam007e/SecurePasswd_MGMT/pull/42) on [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT)
-- [fix(security): resolve minimatch and zod vulnerabilities](https://github.com/fam007e/hold/pull/54) on [fam007e/hold](https://github.com/fam007e/hold)
-- [fix(deps): bump vite to 8.3.8 and brace-expansion to 5.0.12 to resolve Dependabot alerts](https://github.com/fam007e/fun007/pull/5) on [fam007e/fun007](https://github.com/fam007e/fun007)
-- [fix(deps): override minimatch to resolve security vulnerability](https://github.com/fam007e/examquest/pull/47) on [fam007e/examquest](https://github.com/fam007e/examquest)
+- [feat(extensions): default repo to the generated repo-qt JS source branch](https://github.com/fam007e/mihonQT/pull/15) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
+- [docs: issue template chooser &#43; README/ROADMAP refresh](https://github.com/fam007e/mihonQT/pull/14) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
+- [feat(about): hyperlinked brand icons &#43; maintainer extension repo default](https://github.com/fam007e/mihonQT/pull/13) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
+- [feat(ui): real download badges &#43; chapter filter menu](https://github.com/fam007e/mihonQT/pull/12) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
+- [fix(ui): legible selection colors &#43; full keyboard navigation](https://github.com/fam007e/mihonQT/pull/11) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 ### ⭐ Recent Stars
 
 - [EUR-UN/metrics-community](https://github.com/EUR-UN/metrics-community) - Community maintained distribution of metrics with automated upstream sync pipeline and multi-source updates.
