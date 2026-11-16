@@ -29,11 +29,11 @@
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 ### 🔨 My recent Pull Requests
 
+- [fix(ui): eliminate Flawfinder false positive alerts on &#39;read&#39; variable names](https://github.com/fam007e/mihonQT/pull/16) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [feat(extensions): default repo to the generated repo-qt JS source branch](https://github.com/fam007e/mihonQT/pull/15) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [docs: issue template chooser &#43; README/ROADMAP refresh](https://github.com/fam007e/mihonQT/pull/14) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [feat(about): hyperlinked brand icons &#43; maintainer extension repo default](https://github.com/fam007e/mihonQT/pull/13) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [feat(ui): real download badges &#43; chapter filter menu](https://github.com/fam007e/mihonQT/pull/12) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
-- [fix(ui): legible selection colors &#43; full keyboard navigation](https://github.com/fam007e/mihonQT/pull/11) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 ### ⭐ Recent Stars
 
 - [EUR-UN/metrics-community](https://github.com/EUR-UN/metrics-community) - Community maintained distribution of metrics with automated upstream sync pipeline and multi-source updates.
