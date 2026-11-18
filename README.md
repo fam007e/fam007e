@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/bdix-server-monitor](https://github.com/fam007e/bdix-server-monitor) - A professional, modular C implementation of BDIX server checker with multithreading, JSON parsing, and real-time monitoring.
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 - [fam007e/SecurePasswd_MGMT](https://github.com/fam007e/SecurePasswd_MGMT) - A secure, cross-platform password and TOTP manager with intuitive GUI and powerful CLI clients.
 - [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk) - SecurePasswd MGMT for Android — Kotlin/Compose &#43; native C core. F-Droid friendly, reproducible builds. Mirror of the Codeberg repository.
-- [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
-- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 ### 🌱 My latest projects
 
 - [fam007e/securepasswd_mgmt_apk](https://github.com/fam007e/securepasswd_mgmt_apk) - SecurePasswd MGMT for Android — Kotlin/Compose &#43; native C core. F-Droid friendly, reproducible builds. Mirror of the Codeberg repository.
@@ -29,18 +29,18 @@
 - [fam007e/hold](https://github.com/fam007e/hold) - Track, manage, and apply pressure to **pending life events** where the user is waiting on another party (company, institution, person).   The app acts as an external memory &#43; escalation engine for “in-between” states.
 ### 🔨 My recent Pull Requests
 
+- [docs(site): update sysadmin-docs to reflect current ecosystem state](https://github.com/fam007e/fun007/pull/8) on [fam007e/fun007](https://github.com/fam007e/fun007)
+- [feat(dotfiles): sync current device configs &#43; add deploy_dotfiles.sh](https://github.com/fam007e/fun007/pull/7) on [fam007e/fun007](https://github.com/fam007e/fun007)
+- [fix(deps): bump minimatch to 11.0.9 to resolve Dependabot alert #24](https://github.com/fam007e/fun007/pull/6) on [fam007e/fun007](https://github.com/fam007e/fun007)
 - [fix(ui): eliminate Flawfinder false positive alerts on &#39;read&#39; variable names](https://github.com/fam007e/mihonQT/pull/16) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [feat(extensions): default repo to the generated repo-qt JS source branch](https://github.com/fam007e/mihonQT/pull/15) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
-- [docs: issue template chooser &#43; README/ROADMAP refresh](https://github.com/fam007e/mihonQT/pull/14) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
-- [feat(about): hyperlinked brand icons &#43; maintainer extension repo default](https://github.com/fam007e/mihonQT/pull/13) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
-- [feat(ui): real download badges &#43; chapter filter menu](https://github.com/fam007e/mihonQT/pull/12) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 ### ⭐ Recent Stars
 
+- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [EUR-UN/metrics-community](https://github.com/EUR-UN/metrics-community) - Community maintained distribution of metrics with automated upstream sync pipeline and multi-source updates.
 - [melqtx/tork](https://github.com/melqtx/tork) - cli for searching and downloading torrents
 - [MicroTed/wrf4-elec](https://github.com/MicroTed/wrf4-elec) - Beta versions of WRF-ELEC (aka E-WRF) for WRF 4.6.1 / 4.5.1 / 4.3.1. see doc/README.electricity for details
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43;
-- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
