@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
 - [fam007e/libexecinfo](https://github.com/fam007e/libexecinfo) - A modern, BSD-licensed clone of the backtrace facility found in GNU libc. This library is primarily intended for porting Linux code to BSD platforms and other systems that don&#39;t have built-in backtrace support.
 - [fam007e/trove](https://github.com/fam007e/trove) - Android file manager
 - [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
-- [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 ### 🌱 My latest projects
 
 - [fam007e/trove](https://github.com/fam007e/trove) - Android file manager
