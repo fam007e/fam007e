@@ -36,11 +36,11 @@
 - [fix(ui): eliminate Flawfinder false positive alerts on &#39;read&#39; variable names](https://github.com/fam007e/mihonQT/pull/16) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 ### ⭐ Recent Stars
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [storytold/deckcraft](https://github.com/storytold/deckcraft) - DeckCraft: presentations and slide shows; an open-source, clean-room presentation app in pure Rust. Part of the ArtCraft Crafting Apps.
 - [storytold/wordcraft](https://github.com/storytold/wordcraft) - WordCraft: an open-source, clean-room word processor in pure Rust
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 ### 📫 How to reach me:
   - Youtube   : <https://www.youtube.com/channel/UC0opCSTihsVYiv8QNIgQ4JA>
   - Twitch    : <https://www.twitch.tv/fam007e>
