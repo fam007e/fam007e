@@ -15,11 +15,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [fam007e/mihonQT](https://github.com/fam007e/mihonQT) - An attempt to make `mihon` inspired from @mihonapp manga reader in QT for direct desktop/laptop use which is OS agnostic i.e. capable of running in `macos`, `linux` and `windows 7`(onwards).
 - [fam007e/sh2600-triga-simulator-lab](https://github.com/fam007e/sh2600-triga-simulator-lab) - KTH SH2600 Reactor Physics exercises using a patched JSI TRIGA Mark II research reactor simulator, datasets, figures, and report
 - [fam007e/fun007](https://github.com/fam007e/fun007) - Many fun scripts and own config dot files. Watch about `sys-admin` part here ↓
 - [fam007e/receipts](https://github.com/fam007e/receipts) - You are what you do. Take `receipts`
-- [fam007e/libexecinfo](https://github.com/fam007e/libexecinfo) - A modern, BSD-licensed clone of the backtrace facility found in GNU libc. This library is primarily intended for porting Linux code to BSD platforms and other systems that don&#39;t have built-in backtrace support.
-- [fam007e/DWM](https://github.com/fam007e/DWM) - DWM personal configs
+- [fam007e/trove](https://github.com/fam007e/trove) - Android file manager
 ### 🌱 My latest projects
 
 - [fam007e/sh2600-triga-simulator-lab](https://github.com/fam007e/sh2600-triga-simulator-lab) - KTH SH2600 Reactor Physics exercises using a patched JSI TRIGA Mark II research reactor simulator, datasets, figures, and report
@@ -29,11 +29,11 @@
 - [fam007e/grub-theme-template](https://github.com/fam007e/grub-theme-template) - Configurable GRUB2 boot theme — swap fonts, background, colors, and menu layout via a single config file. No hand-editing theme.txt, no pre-baked .pf2 fonts required.
 ### 🔨 My recent Pull Requests
 
+- [fix(release): use ISPP emit syntax {#VERSION} in the Inno script](https://github.com/fam007e/mihonQT/pull/21) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
+- [ci(release): Windows installer &#43; real VC runtime &#43; correct devtools prune](https://github.com/fam007e/mihonQT/pull/20) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
+- [feat: Mihon parity batch — Android backup restore, source refresh, reader filters, history rework](https://github.com/fam007e/mihonQT/pull/19) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [Native widget styles, statistics dashboard, reader double-page rework (0.4.0-alpha)](https://github.com/fam007e/mihonQT/pull/18) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 - [docs(site): update sysadmin-docs to reflect current ecosystem state](https://github.com/fam007e/fun007/pull/8) on [fam007e/fun007](https://github.com/fam007e/fun007)
-- [feat(dotfiles): sync current device configs &#43; add deploy_dotfiles.sh](https://github.com/fam007e/fun007/pull/7) on [fam007e/fun007](https://github.com/fam007e/fun007)
-- [fix(deps): bump minimatch to 11.0.9 to resolve Dependabot alert #24](https://github.com/fam007e/fun007/pull/6) on [fam007e/fun007](https://github.com/fam007e/fun007)
-- [fix(ui): eliminate Flawfinder false positive alerts on &#39;read&#39; variable names](https://github.com/fam007e/mihonQT/pull/16) on [fam007e/mihonQT](https://github.com/fam007e/mihonQT)
 ### ⭐ Recent Stars
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
